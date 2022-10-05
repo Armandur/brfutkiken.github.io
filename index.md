@@ -3,7 +3,7 @@ title: BRF Utkiken
 ---
 
 # Välkommen!
-## Sidan är fortfarande under uppbyggnad och du hittar än så länge mer information om förening på [utkiken.bostadsratterna.se](https://utkiken.bostadsratterna.se/)
+## Sidan är fortfarande under uppbyggnad och du hittar än så länge mer information om föreningen på [utkiken.bostadsratterna.se](https://utkiken.bostadsratterna.se/)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam congue ipsum nulla, eget efficitur nulla posuere vitae. Duis volutpat, nisi ut maximus auctor, est orci dapibus leo, et eleifend eros sapien sed nunc. Curabitur fermentum a dui eget placerat. Nam sit amet metus ut turpis condimentum tristique. Sed elementum orci augue, ac luctus ligula dapibus varius. Cras tristique eu augue quis venenatis. In sed eros molestie, pretium nisi efficitur, aliquam arcu. Phasellus faucibus enim ac augue dapibus tristique. In eget massa quis neque tempus mollis eu sed lorem.
 
